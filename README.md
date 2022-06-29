@@ -33,7 +33,7 @@ Ferramentas e ambiente:
 Passo 1: Abrir o wireshark e selecionar a interface de rede a ser analisada. 
 
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/img1.png" alt="img1" width="80" height="80">
+    <img src="images/img1.png" alt="img1">
   </a>
 
 Passo 2: Configurar WPA do roteador. 
@@ -41,7 +41,7 @@ Passo 2: Configurar WPA do roteador.
   Selecione a opção edit->preferences e dentre de preferences vamos na aba de protocolos e procurar o IEEE 802.11 wireless LAN onde acharemos uma tela como essa:
   
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/img2.png" alt="img2" width="80" height="80">
+    <img src="images/img2.png" alt="img2">
   </a>
 
 	
@@ -50,7 +50,7 @@ Passo 2: Configurar WPA do roteador.
 	Selecione a opção para editar as description keys:
   
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/img3.png" alt="img3" width="80" height="80">
+    <img src="images/img3.png" alt="img3">
    </a>
 
 	
@@ -59,7 +59,7 @@ Passo 2: Configurar WPA do roteador.
 	Adicione as credenciais, em seguida pressione o botão OK e o wireshark está configurado.
   
 <a href="https://github.com/github_username/repo_name">
-    <img src="images/img4.png" alt="img4" width="80" height="80">
+    <img src="images/img4.png" alt="img4">
    </a>
 
 
@@ -70,7 +70,7 @@ Passo 3: Monitorar os pacotes.
 Inicie a captura de pacotes:
 
  <a href="https://github.com/github_username/repo_name">
-    <img src="images/img5.png" alt="img5" width="80" height="80">
+    <img src="images/img5.png" alt="img5">
  </a>
 
 
@@ -84,7 +84,7 @@ Passo 4: Fazendo uma requisição HTTP
   *Uma limitação encontrada em nosso trabalho foi que não conseguimos identificar pacotes HTTP de outros dispositivos, por motivos desconhecidos.
   
    <a href="https://github.com/github_username/repo_name">
-    <img src="images/img6.png" alt="img6" width="80" height="80">
+    <img src="images/img6.png" alt="img6">
    </a>
 
   
@@ -93,7 +93,7 @@ Passo 4: Fazendo uma requisição HTTP
 	No wireshark, utilize o filtro http para procurar por requisições http.
   
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/img7.png" alt="img7" width="80" height="80">
+    <img src="images/img7.png" alt="img7">
   </a>
 
 
@@ -104,7 +104,7 @@ Passo 4: Fazendo uma requisição HTTP
 	ao exibir o conteudo desse header as informações ficam expostas como nessa foto:
   
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/img8.png" alt="img8" width="80" height="80">
+    <img src="images/img8.png" alt="img8">
   </a>
 
 
